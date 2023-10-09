@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Mobile</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="repository">Repositori</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="search_message">Ayo cari pengguna!</string>
+    <string name="search_hint">Apa yang anda cari?</string>
+    <string name="user_not_found">Maaf, pengguna tidak ditemukan</string>
+    <string name="added_favorite">Menambahkan pengguna ke daftar favorit</string>
+    <string name="removed_favorite">Menghapus pengguna dari daftar favorit</string>
+    <string name="no_favorites_user">Maaf, tidak ada pengguna favorit</string>
+    <string name="followers_not_found">%s tidak memiliki pengikut</string>
+    <string name="following_not_found">%s tidak mengikuti siapapun</string>
+    <string name="languages">Bahasa</string>
+    <string name="favorites">Favorit</string>
+    <string name="favorites_title">Daftar Pengguna Favorite</string>
+    <string name="about">Tentang</string>
+    <string name="settings">Pengaturan</string>
+    <string name="exit">Keluar Aplikasi</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="no_internet">Maaf, tolong cek koneksi internet anda</string>
+    <string name="company_null">Tidak dalam perusahaan</string>
+    <string name="location_null">Bumi</string>
+</resources>

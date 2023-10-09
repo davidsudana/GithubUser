@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Github Mobile</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_message">Let\'s Find User!</string>
+    <string name="search_hint">What are you looking for?></string>
+    <string name="user_not_found">Oops, User Not Found</string>
+    <string name="no_favorites_user">Oops, No Favorites User</string>
+    <string name="added_favorite">Added to favorites user</string>
+    <string name="removed_favorite">Removed from favorites user</string>
+    <string name="followers_not_found">%s Has No Followers</string>
+    <string name="following_not_found">%s Does Not Follow Anyone</string>
+    <string name="languages">Languages</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorites_title">Favorite Users</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit App</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="no_internet">Sorry, please check your internet connection</string>
+    <string name="company_null">Not in company</string>
+    <string name="location_null">Earth</string>
+
+    <string name="about_name" translatable="false">David Singgih Sudana</string>
+    <string name="about_location" translatable="false">Medan, sumatra Utara, Indonesia</string>
+    <string name="about_email" translatable="false">davidsudana01@gmail.com</string>
+    <string name="about_github" translatable="false">davidsudana</string>
+    <string name="about_instagram" translatable="false">davidsudana00</string>
+</resources>
